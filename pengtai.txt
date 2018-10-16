@@ -1,0 +1,59 @@
+### section 1: command line
+
+mkdir [directory_name]
+
+ls 
+
+     display a list of files
+
+cd [file_name ]
+
+pwd
+
+      print working directory
+
+tab
+        auto complete command
+
+config?
+
+
+### section 2: Basic Git in moving files
+
+git init 
+         initialise
+git add
+
+       tells git to start tracking a file
+       "move to the wooden box"
+
+git status
+       status of working directory
+
+git diff
+        tells us what has changed
+
+
+git commit -m #"message"
+#move everything currently in the staging area to the repository
+
+git log
+
+    shows "everything" (everything before the latest commit) that has been added into the repository
+
+git log --oneline
+
+git log --all
+
+    shows all!
+
+git checkout
+
+      copy the version code and return to that version
+
+
+
+# git is a version control software. 
+
+
+
